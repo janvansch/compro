@@ -1,0 +1,12 @@
+{  
+    "name": "CommPro",
+    "version": "0.0.0",
+    "description": "A tool to load, validate and store commission data",
+    "main": "/backend/index.js",
+    "author": "Johannes van Schalkwyk",
+    "license": "ISC",
+    
+    "dependencies": {
+        "mysql": "~2.0.0"
+    }
+}
